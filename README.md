@@ -58,11 +58,7 @@ A aplicação foi construída em Python, usando **Streamlit** para a interface w
 
 ## 🖼️ Prévia
 
-> Adicione aqui um print ou GIF do dashboard em funcionamento, por exemplo:
->
-> ```markdown
-> ![Prévia do dashboard](img/print-dashboard.png)
-> ```
+![Prévia do dashboard](img/print-dashboard.png)
 
 ---
 
