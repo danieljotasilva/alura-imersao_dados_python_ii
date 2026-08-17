@@ -61,7 +61,7 @@ A aplicação foi construída em Python, usando **Streamlit** para a interface w
 > Adicione aqui um print ou GIF do dashboard em funcionamento, por exemplo:
 >
 > ```markdown
-> ![Prévia do dashboard](D:\_projects\python\alura-imersao_dados_python_ii\img\print-dashboard.png)
+> ![Prévia do dashboard](img/print-dashboard.png)
 > ```
 
 ---
