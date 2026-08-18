@@ -1,4 +1,4 @@
-# 📊 Alura - Imersão Dados com Python II
+# 📊 Dashboard de Análise de Salários na Área de Dados
 
 Dashboard interativo, construído com **Streamlit** e **Plotly**, para explorar dados salariais na área de Dados. O projeto permite filtrar registros por ano, senioridade, tipo de contrato e tamanho da empresa, exibindo métricas e gráficos que ajudam a entender o cenário salarial do setor.
 
